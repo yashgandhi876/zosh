@@ -1,0 +1,1 @@
+{"available":false,"budget_message":"","budget_ok":true,"enabled":true,"model":"(provider default)","monthly_token_budget":250000,"provider":"anthropic","spent_tokens":0,"usage":{"cache_hits":0,"calls":0,"input_tokens":0,"month":"2026-10","output_tokens":0}}

@@ -1,0 +1,20 @@
+{
+  "name": "ZOSH: markets and money",
+  "short_name": "ZOSH",
+  "description": "Stock and fund history, income tax planner and money calculators for India. Private: your data stays on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#2563eb",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Income tax", "url": "./#/tax"},
+    {"name": "My money", "url": "./#/money"},
+    {"name": "Calculators", "url": "./#/plan"}
+  ]
+}
